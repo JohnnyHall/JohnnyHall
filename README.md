@@ -3,14 +3,6 @@
 <h1 align="center">Hello, my name is João Tápparo</h1>
 <h3 align="center">WELLCOME TO MY PROFILE!</h3>
 
-## ✋ About Me
-
-- ⚡ I'm currently working on my personal projects.
-
-- 🤖 I’m currently learning JavaScript and Rest.
-
-- ✂️ I like to swim, watch anime and play video games.
-
 ## 📊 My Stats
 
 <a href="https://github.com/jstrieb/github-stats">
