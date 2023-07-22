@@ -12,7 +12,7 @@
   
 </a>
 
-## 💻 Technologies
+## 💻 Languages
 <p align="left">
    <!--
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42" width="42"/>
