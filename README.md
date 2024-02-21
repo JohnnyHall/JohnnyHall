@@ -4,13 +4,6 @@
 
 <h1 align="center">Hello, my name is João Tápparo</h1>
 <h3 align="center">WELLCOME TO MY PROFILE!</h3>
-
-## 📊 My Stats
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/johnnyhall/statistics/blob/master/generated/overview.svg)
-![](https://github.com/johnnyhall/statistics/blob/master/generated/languages.svg)
   
 </a>
 
