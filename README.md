@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, my name is João Tápparo</h1>
 <h3 align="center">WELLCOME TO MY PROFILE!</h3>
-<h4>Interested in learning more about me? <a href="https://joaotapparo.com/">Check out my portfolio</a>.</h2>
+<h4 align="center">Interested in learning more about me? <a href="https://joaotapparo.com/">Check out my portfolio</a>.</h2>
   
 </a>
 
